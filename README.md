@@ -1,2 +1,0 @@
-# ataribot
-Whatsapp bot
